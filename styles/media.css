@@ -66,6 +66,11 @@
 	}
 }
 @media screen and (max-width: 900px){
+	header{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
 	.nav__header,
 	.nav__btn{
 		display: none;
